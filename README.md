@@ -1,11 +1,11 @@
 # learning-code
-Lessons and examples for learning code
+Lessons and examples for learning python
 
-## 1. Variables: Your Coding Toolbox!
+## 1. Variables: Containers for information
 
 *Variables are names in your code that hold information. This information can be numbers, words, or other things. You can change what information a variable holds.*
 
-Imagine you're packing for a coding adventure! You need tools to store different things.
+Another way to think about variables is to imagine you have a box where you can store your toys. Each box has a label on it so you know exactly what toy is inside without opening it. In coding, a variable is like that box. You can put information inside it, like numbers or words, and give it a name so you can find that information again later. For example, if you have a box (variable) named "catName," you might store the word "Whiskers" inside it.
 
 ### Numbers: Like counting your steps
 
@@ -32,8 +32,6 @@ fruits = ["apple", "banana", "orange"]
 ```python
 is_raining = true
 ```
-
-Another way to think about variables is to imagine you have a box where you can store your toys. Each box has a label on it so you know exactly what toy is inside without opening it. In coding, a variable is like that box. You can put information inside it, like numbers or words, and give it a name so you can find that information again later. For example, if you have a box (variable) named "catName," you might store the word "Whiskers" inside it.
 
 ## 2. Data Types: Choosing the Right Tool!
 
